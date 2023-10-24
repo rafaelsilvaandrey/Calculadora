@@ -4,7 +4,25 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Subtracao subtracao = new Subtracao();
+            Console.WriteLine(subtracao.Subtrair(10, 2));
         }
     }
 }
