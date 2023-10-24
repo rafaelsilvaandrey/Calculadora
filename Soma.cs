@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Calculadora.CLasses
+namespace Calculadora
 {
     public class Soma
     {
-        public double Somar(double x, double y) 
-        { 
+        public double Somar(double x, double y)
+        {
             return x + y;
         }
     }
