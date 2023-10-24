@@ -4,7 +4,31 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Divisao divisao = new Divisao();
+            Console.WriteLine(divisao.Dividir(10, 2));
         }
     }
 }
