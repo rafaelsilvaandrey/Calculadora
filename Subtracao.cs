@@ -10,7 +10,7 @@ namespace Calculadora
     {
         public double Subtrair(double x, double y)
         {
-            return x / y;
+            return x - y;
         }
     }
 }
