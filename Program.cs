@@ -1,10 +1,22 @@
-﻿namespace Calculadora
+﻿
+
+namespace Calculadora
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
+
+
+
+
+
+
+
+
+            Soma soma = new Soma();
+            Console.WriteLine(soma.Somar(2, 2));
         }
     }
 }
