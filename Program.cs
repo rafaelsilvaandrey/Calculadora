@@ -4,7 +4,22 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Multiplicacao multiplicacao = new Multiplicacao();
+            Console.WriteLine(multiplicacao.Multiplicar(2,3));
         }
     }
 }
