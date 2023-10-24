@@ -6,52 +6,24 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
-            
 
+            Console.WriteLine("Calculadora");
 
-
-
-
-
-
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+            //Soma
             Soma soma = new Soma();
             Console.WriteLine(soma.Somar(2, 2));
-=======
-=======
->>>>>>> divisao
 
-
-
-
-
-<<<<<<< HEAD
+            //Multiplicacao
             Multiplicacao multiplicacao = new Multiplicacao();
             Console.WriteLine(multiplicacao.Multiplicar(2,3));
->>>>>>> multiplicacao
-=======
-=======
->>>>>>> subtracao
 
-
-
-
-
-
-
-
-<<<<<<< HEAD
-
+            //Divisao
             Divisao divisao = new Divisao();
             Console.WriteLine(divisao.Dividir(10, 2));
->>>>>>> divisao
-=======
+
+            //Subtracao
             Subtracao subtracao = new Subtracao();
             Console.WriteLine(subtracao.Subtrair(10, 2));
->>>>>>> subtracao
         }
     }
 }
