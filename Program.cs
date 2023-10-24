@@ -17,6 +17,7 @@ namespace Calculadora
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             Soma soma = new Soma();
             Console.WriteLine(soma.Somar(2, 2));
 =======
@@ -32,6 +33,8 @@ namespace Calculadora
             Console.WriteLine(multiplicacao.Multiplicar(2,3));
 >>>>>>> multiplicacao
 =======
+=======
+>>>>>>> subtracao
 
 
 
@@ -40,10 +43,15 @@ namespace Calculadora
 
 
 
+<<<<<<< HEAD
 
             Divisao divisao = new Divisao();
             Console.WriteLine(divisao.Dividir(10, 2));
 >>>>>>> divisao
+=======
+            Subtracao subtracao = new Subtracao();
+            Console.WriteLine(subtracao.Subtrair(10, 2));
+>>>>>>> subtracao
         }
     }
 }
